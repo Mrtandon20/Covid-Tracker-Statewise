@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Covid-Tracker-Statewise/static/css/main.51847344.css",
+    "main.js": "/Covid-Tracker-Statewise/static/js/main.a2d68f53.js",
+    "static/js/787.7724902d.chunk.js": "/Covid-Tracker-Statewise/static/js/787.7724902d.chunk.js",
+    "index.html": "/Covid-Tracker-Statewise/index.html",
+    "main.51847344.css.map": "/Covid-Tracker-Statewise/static/css/main.51847344.css.map",
+    "main.a2d68f53.js.map": "/Covid-Tracker-Statewise/static/js/main.a2d68f53.js.map",
+    "787.7724902d.chunk.js.map": "/Covid-Tracker-Statewise/static/js/787.7724902d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51847344.css",
+    "static/js/main.a2d68f53.js"
+  ]
+}
